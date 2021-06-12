@@ -1,0 +1,66 @@
+Body{
+
+	margin: 0px;
+}
+
+
+.header{
+
+	background-color: orange;
+	font-family: fantasy;
+    margin: 0px;
+    height: 100px;
+    padding-top: 30px;
+    font-size: 40px;
+    padding-left: 20px;
+
+}
+
+p{
+
+	text-align: center;
+	font-size: 25px; 
+}
+
+.heading1{
+
+    height: 60px;
+	background-color: grey;
+	text-align: center;
+	font-family: fantasy;
+	font-size: 30px;
+	padding-top: 15px;
+	color: whitesmoke;
+	}
+
+
+#container{
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+}
+
+img{
+
+
+	height: 200px;
+	width: 300px;
+	margin: 8px;
+	border: 2px solid;
+}
+
+#courses{
+
+    padding-top: 5px;
+	background-color: blanchedalmond;
+}
+
+.head{
+
+
+}
+
+
+
